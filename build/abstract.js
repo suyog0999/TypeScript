@@ -15,3 +15,7 @@ class E1 {
         return "India";
     }
 }
+let e = new E1();
+e.Fullname();
+e.country();
+e.salary();

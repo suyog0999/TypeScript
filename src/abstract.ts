@@ -20,3 +20,7 @@ class E1 implements Employeeq{
     }
 }
 
+let e=new E1()
+e.Fullname()
+e.country()
+e.salary()
